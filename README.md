@@ -1,2 +1,2 @@
 # calc2
-Cadastro de CESTs e NCMs nam Calculadora 2.0
+Cadastro de CESTs e NCMs na Calculadora 2.0

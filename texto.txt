@@ -1,0 +1,20 @@
+<input class="sc-js-input css_login_obj scFormObjectOdd" style="" 
+id="id_sc_field_login" type="text" name="login" value="" size="35" maxlength="25" alt="{datatype: 'text', maxLength: 25, allowedChars: '', lettersCase: 'lower', enterTab: false, enterSubmit: true, autoTab: false, selectOnFocus: false, watermark: '', watermarkClass: 'scFormObjectOddWm', maskChars: '(){}[].,;:-+/ '}">
+
+<input class="sc-js-input scFormObjectOddPwdInput scFormObjectOddPwdText sc-ui-pwd-toggle css_pswd_obj" style="" id="id_sc_field_pswd" type="password" autocomplete="off" name="pswd" value="" size="31" maxlength="32" alt="{datatype: 'text', maxLength: 32, allowedChars: '', lettersCase: '', enterTab: false, enterSubmit: true, autoTab: false, selectOnFocus: false, watermark: '', watermarkClass: 'scFormObjectOddWm', maskChars: '(){}[].,;:-+/ '}">
+
+<input class="sc-js-input scFormObjectOddPwdInput scFormObjectOddPwdText sc-ui-pwd-toggle css_pswd_obj" style="" id="id_sc_field_pswd" type="password" autocomplete="off" name="pswd" value="" size="31" maxlength="32" alt="{datatype: 'text', maxLength: 32, allowedChars: '', lettersCase: '', enterTab: false, enterSubmit: true, autoTab: false, selectOnFocus: false, watermark: '', watermarkClass: 'scFormObjectOddWm', maskChars: '(){}[].,;:-+/ '}">
+
+
+nav.find_element(By.ID, 'item_73').click()
+nav.implicitly_wait(t)
+
+<li id="id_Mat_STLEGNAC_form_form2" class="sc-form-page sc-tab-click scTabInactive" data-tab-name="Mat_STLEGNAC_form_form2">
+     CESTs da Norma
+   </li>
+
+   <a id="sc_b_new_top" onclick="nm_submit_modal('/scriptcase/app/Matheus/Mat_STLEGNAC_SEGMENTO_CEST_form/?script_case_init=7055&amp;nmgp_outra_jan=true&amp;nmgp_url_saida=modal&amp;nmgp_parms=@SC_par@7055@SC_par@Mat_STLEGNAC_SEGMENTO_CEST_index@SC_par@fb086b479d7a93c7c0b4e21d8de10117&amp;KeepThis=true&amp;TB_iframe=true&amp;SC_lig_apl_orig=Mat_STLEGNAC_SEGMENTO_CEST_index&amp;height=600&amp;width=1200&amp;modal=true', 'S');; return false;" class="scButton_ok " title="Abrir um novo registro" style="vertical-align: middle; display:inline-block;"><i class="icon_fa fas fa-plus"></i>
+&nbsp;&nbsp;<span class="btn-label">Novo</span></a>
+
+pyautogui.moveTo()
+pyautogui.click(366, 544)
